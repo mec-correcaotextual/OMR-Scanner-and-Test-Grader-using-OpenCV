@@ -1,0 +1,1 @@
+python test_grader.py --image images/test_01.png
